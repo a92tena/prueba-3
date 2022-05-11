@@ -28,11 +28,12 @@ definitiva
 
 	> this is a quote (se pone > y lo que queremos dentro)
 
-	` DEntro el codigo`
+	` DEntro el codigo.java`
 
-	``` Si pones el nombre del lenguaje se pone con el estilo
+	``` 
+	Si pones el nombre del lenguaje se pone con el estilo
 	de inicio todo lo que va dentro es codigo
-
+prueba del codigo
 
 	``` de final 
 
