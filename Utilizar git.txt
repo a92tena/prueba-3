@@ -1,0 +1,32 @@
+git init1- entrar github.com
+2- entrar con nuestra cuenta:
+		albertotena_92@hotmail.com
+		Lampara92.
+3-clicar en el mas a la izquierda del usuario, nuevo repositorio
+4- Escribir nombre del repositorio y colocarlo publico
+5- Poner una descripcion
+6- Nos colocamos en la carpeta con los archivos y le damos click derecho
+	git bash here
+7- se nos abre la consola
+	$ git init   (Inicializar git)
+	$ git status (Ver el estado del repositorio de git)
+	$ git add . (añadir todos los archivos de la carpeta)
+	$ git commit -m "Se agregran todos los archivos del examen de mayo de alberto tena "
+
+8- Introducir nuestro usuario y contraseña:
+	$ git config --global user.email albertotena_92@hotmail.com
+9- Introducir el nombre de git:
+	$ git config --global user.name a92tena
+10- Repetir el comando para agregar todos los archivos
+	$ git commit -m "Se agregran todos los archivos del examen de mayo de alberto tena "
+11- DEcirle que se va a subir todo al repositorio
+	$ git branch  -M main
+12- Decirle en que repositorio remoto va a ir
+	$ git remote add origin
+13- Por ultimo poner la conexion
+	$ git push -u origin main 
+14- decirle que se loge com el browser
+
+15- y autorizar
+
+16- 
